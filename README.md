@@ -18,7 +18,7 @@ VRM1.0
 2.TimeLineで右クリック「Add 〓PlayableTrack」を追加。VRM10Instanceオブジェクトをバインドします。\
 　TimeLineのTrack上で右クリック「add VRM_Emotionchange_Clip」を配置します。
 
-3.EmotionChangePlayableClipを編集します。
+3.EmotionChangePlayableClipを編集します。\
 　項目は上から五つの基本表情「ExpressionPreset〓」を設定。\
  「ExpressionPreset」は基本の表情以外をホップアップから一つ選んで設定できます。－100%までの減算にも対応。\
  「ここは口を閉じておきたい」など細かい表情作りに便利です。\

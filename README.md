@@ -1,5 +1,5 @@
 # EmotionChange_forVRM10
-controlling VRM1.0 Expression  for Unity Timeline
+controlling VRM1.0 Expression  for Unity Timeline\
 VRM1.0のプリセット表情とカスタム表情をUnityのTimelineで制御します。
 
 ## Unique Points

@@ -18,7 +18,7 @@ VRM1.0
 ## User Guide
 1.ファイルをダウンロードして、解凍後、UNITYプロジェクトのASSETフォルダに入れる\
 2.EmotionChangeBehaviourをVRM10Instanceのオブジェクトにアタッチします。\
-（自動的に該当のVrmとSkinned Mesh Rendererが取得されます。）
+（自動的に該当のVrmとSkinned Mesh Rendererが取得されます。）\
 ![Image](https://github.com/user-attachments/assets/88deef6d-6904-4fc7-a7cb-d117f48c073a)
 　\
 3.TimeLineで右クリック「Emotion Change Playable Track」を追加。VRM10Instanceオブジェクトをバインドします。\

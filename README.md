@@ -24,7 +24,7 @@ TimeLine1.7.6
 ![Image](https://github.com/user-attachments/assets/88deef6d-6904-4fc7-a7cb-d117f48c073a)
 　\
 3.TimeLineで右クリック「Emotion Change Playable Track」を追加。VRM10Instanceオブジェクトをバインドします。\
-　TimeLineのTrack上で右クリック「add VRM_Emotionchange_Clip」を配置します。
+　配置したTrack上で右クリック「add VRM_Emotionchange_Clip」を配置します。
 
 4.EmotionChangePlayableClipを編集します。\
 　項目は上から五つの基本表情を設定。\

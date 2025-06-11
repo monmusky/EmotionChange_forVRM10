@@ -40,10 +40,10 @@ VRM1.0
 
 ## Attention
 「CustomExpression」のカスタム表情リストは、シーンにある全てのVRM10Instanceから取得しています。\
-そのため、複数のVRMキャラクターがいる場合、設定していないカスタム表情名も表示される場合があります。その表情のウエイトを上げても表情は変わりません。\
+そのため、複数のVRMキャラクターがいる場合、設定していないカスタム表情名も表示される場合があります。その表情のウエイトを上げても表情は変わりません。
 
 ## Advanced
-表情のウエイト範囲は、「EmotionChangePlayableBehaviour」と「EmotionChangeDrawer」で設定。まばたきの設定は「EmotionChangeBehaviour」でしています。\
+表情のウエイト範囲は、「EmotionChangePlayableBehaviour」と「EmotionChangeDrawer」で設定。まばたきの設定は「EmotionChangeBehaviour」でしています。
 細かくコメントを残していますので、元の設定を変更したい方は手を加えてください。
 
 

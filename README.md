@@ -10,10 +10,12 @@ VRM1.0キャラクターの表情アニメーションをTimelineで直感的に
 ・カスタム表情にも対応していますので、VRMキャラクターにカスタム表情を追加すれば、もっと表現の幅が広がります。\
 ・クリップごとに自動まばたきのオンオフ・間隔・強度設定が可能\
 ・カスタム表情名をインスペクター上で検索できるUIを提供\
+ \
 ![Image](https://github.com/user-attachments/assets/8e287285-41ce-42fb-aff9-663c3f524d96)
 ## Environment
 Unity2022.3.23f1\
 VRM1.0
+TimeLine1.7.6
 
 ## User Guide
 1.ファイルをダウンロードして、解凍後、UNITYプロジェクトのASSETフォルダに入れる\

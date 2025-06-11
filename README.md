@@ -14,7 +14,7 @@ VRM1.0キャラクターの表情アニメーションをTimelineで直感的に
 ![Image](https://github.com/user-attachments/assets/8e287285-41ce-42fb-aff9-663c3f524d96)
 ## Environment
 Unity2022.3.23f1\
-VRM1.0
+VRM1.0\
 TimeLine1.7.6
 
 ## User Guide
